@@ -2,7 +2,8 @@
 
 This is a computer vision model which works on ultralytics YOLOv8 to count and track the number of vehicles on the road and track them using specific measures .
 
-## To work on this , steps are as follows :
+## To work on this after downloading all the files , steps are as follows :
+
 1.Change the "original_moving_vehicles" file name to "moving_vehicles"
 
 2. Open cv.ipynb file .
